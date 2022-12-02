@@ -1,0 +1,140 @@
+/* Your styles here */
+
+body{
+    width:100%;
+    text-align: center;
+    line-height: 30px;
+    font: #393d41 - 1.2rem - Open Sans -interlinea 1.65;
+}
+
+header{
+    background-color: black;
+    padding:40px;
+}
+
+header img{
+    width:50%
+}
+
+main div{
+    padding:35px 25px;
+}
+
+h1{
+    /*font: #25a2c3 - Montserrat (bold) - interlinea 1.5;*/
+    font-weight: bold;
+    font-size: 60px;
+    padding-bottom:25px;
+    color:#25a2c3;
+    line-height: 50px;
+}
+
+.partiamo{
+    background-image: url(../images/banner.jpg);
+    background-size: 100%;
+}
+
+.button{
+    /*font: #f04c2f - Montserrat (bold) - bold;*/
+    background-color: #f04c2f;
+    width: 20%;
+    margin: auto;
+    padding:5px 20px;
+    border-radius:3px;
+    color:white;
+
+}
+
+main p{
+    font-size:20px;
+    margin-bottom: 30px;
+}
+
+h4{
+    color:#25a2c3;
+    font-weight: bold;
+    font-size: 30px;
+    letter-spacing: 0.7px;
+    padding-bottom: 10px;
+}
+
+.notebook{
+    border-radius: 50%;
+    margin-bottom: 30px;
+}
+
+.testimonianze{
+    background-color: #e22d0e;
+    color:white
+}
+
+h3{
+    font-weight: bold;
+    font-size: 35px;
+    margin: 25px 0;
+}
+
+.testimonianze span{
+    font-size:15px
+}
+
+.schede{
+    padding-top: 50px;
+    
+}
+
+h6{
+    color: #25a2c3;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+.schede img{
+    width:100%;
+    margin-bottom: 8px;
+}
+
+.schede div{
+    border:1px #dee1e3 solid;
+    padding:0;
+    margin-bottom:30px;
+    border-radius: 1%;
+
+}
+
+.schede div p{
+    margin-top:8px;
+    margin-bottom: 40px;
+}
+
+footer div{
+    background-color: #25a2c3;
+    color: white;
+}
+
+footer a{
+    color:white;
+}
+
+footer h3{
+    padding-top: 45px;
+    padding-bottom: 20px;
+    margin:0;
+}
+
+footer p{
+    letter-spacing: 0.3px;
+}
+
+.copyright{
+    border-top: 2px #dee1e3 solid;
+    margin: auto;
+    width: 41%;
+    margin-top:20px;
+    padding-bottom: 40px;
+}
+
+
+
+
